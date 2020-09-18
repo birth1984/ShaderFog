@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: L05_HalfLambertRemapTexS
-  m_Shader: {fileID: 4800000, guid: 9e0d9e4e83dcf1f49bf9f46f7a35c5fa, type: 3}
+  m_Shader: {fileID: 4800000, guid: 97e2a1b4df28f6f4b98a8abd067ad6cd, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -40,7 +40,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: 2a3bdf9eec0a0f647acbe7be41f499d5, type: 3}
+        m_Texture: {fileID: 2800000, guid: 81c9e9bf17fde3547b52ec35eec99010, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:

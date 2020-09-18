@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: L05_VirtualLight
-  m_Shader: {fileID: 4800000, guid: 6618b29211bfc924e9a0de56dc2a2a83, type: 3}
+  m_Shader: {fileID: 4800000, guid: 520acf1b7bece7d4d80b8e18813ca02c, type: 3}
   m_ShaderKeywords: _LIGHTONOFF_ON
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -56,7 +56,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Texture:
-        m_Texture: {fileID: 2800000, guid: 628a9e6aaa012d841b41feaceb8646a1, type: 3}
+        m_Texture: {fileID: 2800000, guid: d4596d568aec9c54fb9d0e12b9a09a84, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:

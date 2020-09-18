@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: L05_OldSchool2
-  m_Shader: {fileID: 4800000, guid: 42ff785a47e6a6c46a88d6d74bb46876, type: 3}
+  m_Shader: {fileID: 4800000, guid: 1fa3e22223a942845817d9e45f49c2b5, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0

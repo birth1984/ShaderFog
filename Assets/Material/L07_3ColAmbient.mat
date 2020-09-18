@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: L07_3ColAmbient
-  m_Shader: {fileID: 4800000, guid: 98d91519b306b384f914a33e94e5a4cc, type: 3}
+  m_Shader: {fileID: 4800000, guid: 635b010bdd69b8a42b68fba738f6a973, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -48,7 +48,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _Occlusion:
-        m_Texture: {fileID: 2800000, guid: 8bb19723355eee8418dd1d19c33e4e01, type: 3}
+        m_Texture: {fileID: 2800000, guid: 81b682f6d87b3544183411cdb5c445c7, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _OcclusionMap:
