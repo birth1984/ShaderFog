@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Floor
-  m_Shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
+  m_Shader: {fileID: 4800000, guid: f4b23949caac6aa45aea6302f11ef72a, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -40,11 +40,11 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _FloorTex:
-        m_Texture: {fileID: 2800000, guid: 5c7ac94dcf4db194da28f118efa6915f, type: 3}
+        m_Texture: {fileID: 2800000, guid: 647aeb94a6f767a40afdc1b56535a721, type: 3}
         m_Scale: {x: 10, y: 10}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 0}
+        m_Texture: {fileID: 2800000, guid: 647aeb94a6f767a40afdc1b56535a721, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
@@ -61,6 +61,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Floats:
     - _BumpScale: 1
+    - _CurveFactor: 1
     - _Cutoff: 0.5
     - _DetailNormalMapScale: 1
     - _DstBlend: 0
@@ -79,3 +80,7 @@ Material:
     m_Colors:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _V_CW_Angle: {r: 0, g: 0, b: 0, a: 0}
+    - _V_CW_MinimalRadius: {r: 2.2, g: 19.05, b: 24.33, a: 12.2}
+    - _V_CW_PivotPoint_2_Position: {r: 0, g: 0, b: 0, a: 0}
+    - _V_CW_PivotPoint_Position: {r: 0, g: 0, b: 0, a: 0}
